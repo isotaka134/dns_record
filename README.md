@@ -1,4 +1,4 @@
-# DNS Record Scanner
+# DNS Record 
 
 ## Overview
 The **DNS Record Scanner** is a Metasploit auxiliary module designed to gather DNS records for a specified domain. This tool allows ethical hackers and penetration testers to retrieve detailed information about a domain's DNS configuration, which can aid in reconnaissance and security assessments.
@@ -15,14 +15,14 @@ The **DNS Record Scanner** is a Metasploit auxiliary module designed to gather D
 - Metasploit Framework installed on your system.
 
 ### Loading the Module
-1. Save the script as `dns_record_scanner.rb` in the Metasploit `modules/auxiliary` directory.
+1. Save the script as `dns_record.rb` in the Metasploit `modules/auxiliary` directory.
 2. Start Metasploit Framework:
    ```bash
    msfconsole
    ```
 3. Load the module:
    ```bash
-   use auxiliary/dns_record_scanner
+   use auxiliary/dns_record
    ```
 
 ### Options
