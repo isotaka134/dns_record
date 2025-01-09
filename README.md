@@ -1,7 +1,7 @@
 # DNS Record 
 
 ## Overview
-The **DNS Record Scanner** is a Metasploit auxiliary module designed to gather DNS records for a specified domain. This tool allows ethical hackers and penetration testers to retrieve detailed information about a domain's DNS configuration, which can aid in reconnaissance and security assessments.
+The **DNS Record ** is a Metasploit auxiliary module designed to gather DNS records for a specified domain. This tool allows ethical hackers and penetration testers to retrieve detailed information about a domain's DNS configuration, which can aid in reconnaissance and security assessments.
 
 ## Features
 - **A Records**: Retrieve all IP addresses associated with the domain.
